@@ -1,8 +1,4 @@
-Bullying Traces v3.0
-Visit bullying research project at http://research.cs.wisc.edu/bullying/
-
 *****************************************************************************
-What's new in v3.0 (Released June 2015)
 1. A python script bullying_tweet.py is provided to download the tweet to bullying_tweet.csv (including tweet texts) from Twitter API. You have to sign up for a Twitter account and apply for access tokens from Twitter.  Alternatively, a quick way to inspect a tweet is via the URL https://twitter.com/statuses/TweetID
 
 *****************************************************************************
